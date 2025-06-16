@@ -47,3 +47,5 @@ Passionate about building scalable, user-friendly mobile applications with clean
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=mirzaadil&show_icons=true&theme=radical" alt="Mirza's GitHub Stats" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaadil&theme=radical" alt="GitHub Streak" />  </p>  
+
+  ![Visitor Count](https://profile-counter.glitch.me/mirza-adil/count.svg)
