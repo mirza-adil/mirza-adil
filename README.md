@@ -13,7 +13,7 @@ Passionate about building scalable, user-friendly mobile applications with clean
 ### 📱 **Mobile Development**  
 - **Android:** Kotlin, Jetpack Compose, MVVM, Coroutines  
 - **iOS:** Swift, SwiftUI, UIKit, Combine  
-- **Cross-Platform:** Flutter, React Native  
+- **Cross-Platform:** KMP, React Native  
 
 ### 🛠️ **DevOps & Tools**  
 - **Cloud & CI/CD:** AWS, Docker, Kubernetes, GitHub Actions  
